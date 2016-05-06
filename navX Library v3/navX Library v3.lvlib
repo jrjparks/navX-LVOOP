@@ -14,4 +14,5 @@
 	<Item Name="navX - SPI.lvclass" Type="LVClass" URL="../navX - SPI/navX - SPI.lvclass"/>
 	<Item Name="navX Error Status.lvclass" Type="LVClass" URL="../navX Error Status/navX Error Status.lvclass"/>
 	<Item Name="navX Registry Cache.lvclass" Type="LVClass" URL="../navX Registry Cache/navX Registry Cache.lvclass"/>
+	<Item Name="navX.lvclass" Type="LVClass" URL="../navX/navX.lvclass"/>
 </Library>
