@@ -27,6 +27,17 @@
 	<Item Name="navX Registry Cache.ctl" Type="Class Private Data" URL="navX Registry Cache.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="_TypeDefs" Type="Folder">
+		<Item Name="DeviceRegistryTypeDef.ctl" Type="VI" URL="../_TypeDefs/DeviceRegistryTypeDef.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"V!!!!!1"N!0(458*]!!!!!R6O98:9)%RJ9H*B=HEA&gt;D-O&lt;(:M;7)&lt;&lt;G&amp;W7#"3:7&gt;J=X2S?3"$97.I:3ZM&gt;G.M98.T'52F&gt;GFD:6*F:WFT&gt;(*Z6(FQ:52F:CZD&gt;'Q!'5!&amp;!!^%:8:J9W5A5G6H;8.U:8)!!1!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">3145728</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		</Item>
+	</Item>
 	<Item Name="Decode" Type="Folder">
 		<Item Name="Decode_Int8.vi" Type="VI" URL="../Decode/Decode_Int8.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=!!!!"1!&amp;!!%!!"*!1!!"`````Q!!"%FO&gt;$A!!!N!"1!%9HFU:1!!'E"!!!(`````!!).4'FU&gt;'RF)%6O:'FB&lt;A!9!0!!!A!"!!-#!!!)!!!*!!!!#!!!!!!"!!1!!!!!</Property>
@@ -48,6 +59,15 @@
 		</Item>
 		<Item Name="Decode_Int32.vi" Type="VI" URL="../Decode/Decode_Int32.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=!!!!"1!&amp;!!-!!"*!1!!"`````Q!!"5FO&gt;$-S!!N!"1!%9HFU:1!!'E"!!!(`````!!).4'FU&gt;'RF)%6O:'FB&lt;A!9!0!!!A!"!!-$!!!)!!!*!!!"#A!!!!!"!!1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
+		<Item Name="Decode_SignedHundredths.vi" Type="VI" URL="../Decode/Decode_SignedHundredths.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!"1!&amp;!!I!!#:!1!!"`````Q!!'&amp;.J:WZF:#")&gt;7ZE=G6E&gt;'BT)#AQ,D!Q+1!!#U!&amp;!!2C?82F!!!;1%!!!@````]!!AV-;82U&lt;'5A27ZE;7&amp;O!"A!]!!#!!%!!Q-!!!A!!!E!!!%+!!!!!!%!"!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>

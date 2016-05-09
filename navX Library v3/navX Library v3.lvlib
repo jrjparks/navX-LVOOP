@@ -8,8 +8,8 @@
 	<Item Name="Friends List" Type="Friends List">
 		<Item Name="_NI WPI Serial USB.lvlib" Type="Friended Library" URL="../../_NI WPI Serial USB/_NI WPI Serial USB.lvlib"/>
 	</Item>
-	<Item Name="navX - Base.lvclass" Type="LVClass" URL="../navX - Base/navX - Base.lvclass"/>
 	<Item Name="navX - I2C.lvclass" Type="LVClass" URL="../navX - I2C/navX - I2C.lvclass"/>
+	<Item Name="navX - Interface.lvclass" Type="LVClass" URL="../navX - Interface/navX - Interface.lvclass"/>
 	<Item Name="navX - SERIAL.lvclass" Type="LVClass" URL="../navX - SERIAL/navX - SERIAL.lvclass"/>
 	<Item Name="navX - SPI.lvclass" Type="LVClass" URL="../navX - SPI/navX - SPI.lvclass"/>
 	<Item Name="navX Error Status.lvclass" Type="LVClass" URL="../navX Error Status/navX Error Status.lvclass"/>
