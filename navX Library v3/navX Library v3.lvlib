@@ -8,11 +8,18 @@
 	<Item Name="Friends List" Type="Friends List">
 		<Item Name="_NI WPI Serial USB.lvlib" Type="Friended Library" URL="../../_NI WPI Serial USB/_NI WPI Serial USB.lvlib"/>
 	</Item>
-	<Item Name="navX - I2C.lvclass" Type="LVClass" URL="../navX - I2C/navX - I2C.lvclass"/>
-	<Item Name="navX - Interface.lvclass" Type="LVClass" URL="../navX - Interface/navX - Interface.lvclass"/>
-	<Item Name="navX - SERIAL.lvclass" Type="LVClass" URL="../navX - SERIAL/navX - SERIAL.lvclass"/>
-	<Item Name="navX - SPI.lvclass" Type="LVClass" URL="../navX - SPI/navX - SPI.lvclass"/>
-	<Item Name="navX Error Status.lvclass" Type="LVClass" URL="../navX Error Status/navX Error Status.lvclass"/>
-	<Item Name="navX Registry Cache.lvclass" Type="LVClass" URL="../navX Registry Cache/navX Registry Cache.lvclass"/>
+	<Item Name="CORE" Type="Folder">
+		<Item Name="navX - Interface.lvclass" Type="LVClass" URL="../navX - Interface/navX - Interface.lvclass"/>
+		<Item Name="navX Error Status.lvclass" Type="LVClass" URL="../navX Error Status/navX Error Status.lvclass"/>
+		<Item Name="navX Registry Cache.lvclass" Type="LVClass" URL="../navX Registry Cache/navX Registry Cache.lvclass"/>
+	</Item>
+	<Item Name="SERIAL" Type="Folder">
+		<Item Name="navX - SERIAL.lvclass" Type="LVClass" URL="../navX - SERIAL/navX - SERIAL.lvclass"/>
+	</Item>
+	<Item Name="SPI / I2C" Type="Folder">
+		<Item Name="navX - I2C.lvclass" Type="LVClass" URL="../navX - I2C/navX - I2C.lvclass"/>
+		<Item Name="navX - SPI.lvclass" Type="LVClass" URL="../navX - SPI/navX - SPI.lvclass"/>
+		<Item Name="navX - SPI_I2C ProcessingLoop.lvclass" Type="LVClass" URL="../navX - SPI_I2C ProcessingLoop/navX - SPI_I2C ProcessingLoop.lvclass"/>
+	</Item>
 	<Item Name="navX.lvclass" Type="LVClass" URL="../navX/navX.lvclass"/>
 </Library>
