@@ -75,6 +75,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
+		<Item Name="Decode_SignedRatio.vi" Type="VI" URL="../Decode/Decode_SignedRatio.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"E!!!!"1!&amp;!!I!!"J!1!!"`````Q!!$&amp;.J:WZF:#"3982J&lt;Q!!#U!&amp;!!2C?82F!!!;1%!!!@````]!!AV-;82U&lt;'5A27ZE;7&amp;O!"A!]!!#!!%!!Q-!!!A!!!E!!!%+!!!!!!%!"!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="Decode_UInt16.vi" Type="VI" URL="../Decode/Decode_UInt16.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"?!!!!"1!&amp;!!9!!"2!1!!"`````Q!!"F6*&lt;H1R.A!!#U!&amp;!!2C?82F!!!;1%!!!@````]!!AV-;82U&lt;'5A27ZE;7&amp;O!"A!]!!#!!%!!Q-!!!A!!!E!!!%+!!!!!!%!"!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -135,6 +144,33 @@
 		</Item>
 		<Item Name="Encode_Int32.vi" Type="VI" URL="../Encode/Encode_Int32.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=!!!!"1!,1!5!"'*Z&gt;'5!!"J!1!!"`````Q!!$5RJ&gt;(2M:3"&amp;&lt;G2J97Y!"1!$!!!31%!!!@````]!!A6*&lt;H1T-A!9!0!!!A!"!!-$!!!)!!!*!!!##!!!!!!"!!1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Encode_SignedHundredths.vi" Type="VI" URL="../Encode/Encode_SignedHundredths.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!"1!,1!5!"'*Z&gt;'5!!"J!1!!"`````Q!!$5RJ&gt;(2M:3"&amp;&lt;G2J97Y!"1!+!!!G1%!!!@````]!!BB4;7&gt;O:71A3(6O:(*F:(2I=S!I-#YQ-#E!!"A!]!!#!!%!!Q-!!!A!!!E!!!))!!!!!!%!"!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Encode_UInt16.vi" Type="VI" URL="../Encode/Encode_UInt16.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"?!!!!"1!,1!5!"'*Z&gt;'5!!"J!1!!"`````Q!!$5RJ&gt;(2M:3"&amp;&lt;G2J97Y!"1!'!!!51%!!!@````]!!A:637ZU-49!!"A!]!!#!!%!!Q-!!!A!!!E!!!))!!!!!!%!"!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Encode_UInt32.vi" Type="VI" URL="../Encode/Encode_UInt32.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"?!!!!"1!,1!5!"'*Z&gt;'5!!"J!1!!"`````Q!!$5RJ&gt;(2M:3"&amp;&lt;G2J97Y!"1!(!!!51%!!!@````]!!A:637ZU-T)!!"A!]!!#!!%!!Q-!!!A!!!E!!!))!!!!!!%!"!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
